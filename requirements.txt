@@ -7,7 +7,7 @@ packaging==20.3
 pipenv==2018.11.26
 psutil==5.7.0
 pyowm==2.10.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.6
 pyTelegramBotAPI==3.6.7
 python-telegram-bot==12.4.2
