@@ -4,7 +4,7 @@ Cython==0.29.15
 Django==3.0.4
 docutils==0.16
 packaging==20.3
-pipenv==2018.11.26
+pipenv==2022.1.8
 psutil==5.7.0
 pyowm==2.10.0
 Pygments==2.6.1
